@@ -1,0 +1,8 @@
+{
+  "name": "campusboard-stored-xss-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local teaching lab for understanding Stored XSS and HTML output encoding",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
